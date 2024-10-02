@@ -1,2 +1,2 @@
 # PersoProjects
-My personal projects
+This repo stores some of my personal projects.
