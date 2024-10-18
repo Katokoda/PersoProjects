@@ -1,0 +1,32 @@
+Nomo: Triqueta
+
+Listo de ĝenroj: []
+
+Ludantoj/tempo: 2-5/20 min
+
+Materialo
+Kartoj 1-100, unu komenc-ŝtono, tri pakaĵ-ŝtonoj, po unu lini-ŝtono por ludanto.
+
+Esenco
+Celo estas kolekti arojn de tri samaj bestoj (x5 = Kunikloj, x6 = Strigoj, x7 = Cervoj, x8 = Aproj, x9 = Ŝafiĉoj, x0 = Ursoj). 
+
+Instalado
+Forigu ĉiujn kartojn kiuj finas per 1, 2, 3 aŭ 4. (Restas 60 kartoj; la sola grava afero estas ilia lasta nombro)
+Faru 4 pakaĵojn kaj metu ŝtonon sur tri el ili. Metu linien tiom da lini-ŝtonojn kiom da lundantoj estas.
+Elektu kiu ricevas la komencŝtonon.
+
+Memorindaĵoj
+Kiam venas via vico, faru tion
+Daŭrigi. Prenu karton de la libera pakaĵo kaj elektu
+ - Aldoni ĝin al unu de la linioj.
+ - Konservi ĝin kaŝita antaŭ si (maksimume 2 en la *tuta ludo*)
+Ĉesi. Prenu linion, prezentu la kartojn kaj la ŝtonon antaŭ si. Vi ne plu ludos ĝis la sekvonta pakaĵo.
+
+La lasta ludanto (kiam ĉiuj aliaj ĉesis) ricevas la komencŝtonon kaj daŭrigas laŭvole. Tiu ludanto komencas la sekvan pakaĵon kaj ricevas pakaĵŝtonon.
+
+Fino de la ludo
+Post la kvara pakaĵo, kiam la lasta ludanto ĉesis: oni kalkulas poentojn.
+Aro de precize tri kartoj kun sama last-nombro : tiu last-nombro de poentoj.
+Aro de 0, 1, 2 kartoj: tiu kvanto de poentoj.
+Ĉiu pakaĵo kun troaj kartoj: negativa poento por ĉiu troa karto.
+Poento por ĉiu ŝtono.
